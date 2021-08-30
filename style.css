@@ -1,0 +1,31 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera, #result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid whitesmoke;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#text_box
+{
+    width: 300px;
+}
+
+body{
+    border-color: blue;
+    border-width: 5px;
+    border-style: groove;
+    background-color: darkgray;
+}
+
+#p{
+    color: tomato;
+    background-color: turquoise;
+}
